@@ -1,0 +1,4 @@
+/starter/campaign-events
+/debugging/eventstats
+.env
+*.test
